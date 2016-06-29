@@ -1,0 +1,25 @@
+{
+  "name": "resolve-after",
+  "version": "0.1.0",
+  "description": "A system for using files and then resolving them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legodude17/file-resolve.git"
+  },
+  "keywords": [
+    "files"
+  ],
+  "author": "JDB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legodude17/file-resolve/issues"
+  },
+  "homepage": "https://github.com/legodude17/file-resolve#readme",
+  "dependencies": {
+    "orchestrator": "^0.3.7"
+  }
+}
