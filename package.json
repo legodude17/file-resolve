@@ -4,7 +4,7 @@
   "description": "A system for using files and then resolving them.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/legodude17/file-resolve#readme",
   "dependencies": {
-    "orchestrator": "^0.3.7"
+    "request": "^2.72.0"
   }
 }
